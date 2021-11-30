@@ -24,3 +24,11 @@ Si me equivoco en el última descripción del commit puedo corregirlo con git am
 ```bash
 git commit --amend -m "Agrego lo de git log"
 ```
+# ADD y COMMIT todo junto
+**IMPORTANTE:** Tengo que tener en el Staging AREA.
+
+```bash
+git commit -am "Nombre del commit"
+```
+
+
