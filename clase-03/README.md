@@ -82,3 +82,11 @@ git branch {nombre rama}
 git branch dev
 ```
 
+Cambio de Rama
+
+```bash
+git switch dev
+```
+
+
+
