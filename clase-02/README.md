@@ -115,9 +115,7 @@ NOTA CPS: En Win 7 tuve un problema con el git push, no me tomaba las credencial
 4. git push
 
 git log --oneline (para ver el registro de cambios resumido) (si son muchos se sale con q)
-git diff muestra las diferencias
-
-con el VScode permite ver los cambios realizados con vista lateral
+git diff muestra las diferencias con el VScode permite ver los cambios realizados con vista lateral
 
 # Para colaborar con repositorios de otra persona (En el video es el minuto 01:39)
 
