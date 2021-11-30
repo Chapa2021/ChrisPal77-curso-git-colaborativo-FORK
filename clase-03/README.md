@@ -11,3 +11,6 @@ git stash
 ```bash
 git stash list
 ```
+
+# .gitignore
+Este archivo es un blacklist de archivo. Todos archivos que coloque dentro de el archivo .gitignore, van ser descartados
