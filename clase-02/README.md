@@ -21,7 +21,7 @@ git config --global user.name "Maximilano"
 git config --global user.email "mlapeducacion@gmail.com" 
 ```
 
-LOCAL: Que su responsitorio se haga con este usuario y esta correo
+LOCAL: Que su respositorio se haga con este usuario y esta correo
 
 ```bash
 git config --local user.name "Maximilano Principe" 
