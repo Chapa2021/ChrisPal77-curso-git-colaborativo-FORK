@@ -82,7 +82,8 @@ git branch {nombre rama}
 git branch dev
 ```
 
-# Agrego algo en la misma lineas de la otra rama
-# Sigo agregando código
-# Agrego algo en la misma lineas de la otra rama
-# Sigo agregando código
+Cambio de Rama
+
+```bash
+git switch dev
+```
