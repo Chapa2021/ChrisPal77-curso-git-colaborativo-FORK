@@ -87,3 +87,10 @@ Cambio de Rama
 ```bash
 git switch dev
 ```
+
+Otra forma de cambiar de rama
+
+```bash
+git checkout <rama>
+```
+
