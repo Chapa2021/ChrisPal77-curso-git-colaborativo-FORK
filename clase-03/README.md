@@ -73,6 +73,8 @@ git remote rm {origin} https://github.com/{usuarioGit}/{nombreRepo}
 
 # BRANCH
 
+## Creo una rama
+
 ```bash
 git branch {nombre rama}
 ```
@@ -82,15 +84,27 @@ git branch {nombre rama}
 git branch dev
 ```
 
-Cambio de Rama
+## Cambio de Rama
 
 ```bash
 git switch dev
 ```
 
-Otra forma de cambiar de rama
+## Otra forma de cambiar de rama
 
 ```bash
 git checkout <rama>
 ```
 
+## Borro la rama
+
+```bash
+git branch -d <rama>
+```
+
+## Borro la rama de forma forzada
+
+```bash
+git branch -d <rama> -f
+git branch -D <rama>
+```
