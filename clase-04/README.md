@@ -57,3 +57,15 @@ Ejemplo
 ```bash
 git checkout d1d74f4
 ```
+
+# Subir rama local al remoto
+
+```bash
+git push --set-upstream <urlDelRemoto> <rama>
+```
+
+# Quito el seguimiento de esa rama en el remoto
+
+```bash
+git push --unset-upstream <urlDelRemoto> <rama>
+```
