@@ -45,3 +45,15 @@ git config --unset alias.s
 ```
 git config --global -e // Abre el editor configurado por defecto en git
 ```
+
+# Para moverme entre los commit
+** IMPORTANTE **: No es recomendable salvo casos muy especificos moverme entre los commits
+
+```bash
+git checkout <hashDeCommit>
+```
+
+Ejemplo
+```bash
+git checkout d1d74f4
+```
