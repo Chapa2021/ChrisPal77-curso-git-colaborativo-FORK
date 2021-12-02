@@ -96,6 +96,12 @@ git switch dev
 git checkout <rama>
 ```
 
+# AYUDA DE GIT en LOCAL
+
+```bash
+git help <nombreComando>
+```
+
 ## Borro la rama
 
 ```bash

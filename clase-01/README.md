@@ -1,5 +1,11 @@
 # Curso Git Desarrollo Avazando
 # Clase 01 - 2021-11-23 de 10 a 12
+
+# Mail para consultas técnicas
+soporte@eduacionit.com
+
+# Mail
+mlapeducacionit@gmail.com
 # Link grupo Telegram
 
 https://t.me/+faPK_aHcy2c1ZDcx

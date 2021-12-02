@@ -30,3 +30,18 @@ git config alias.s "status"
 ```bash
 git config --get-regexp alias
 ```
+
+## Para quitar un alias o cualquier configuración que hice
+
+```bash
+git config --unset alias.s
+```
+
+```bash
+git config --unset alias.s
+```
+## Modifico manualmente la configuración de git
+
+```
+git config --global -e // Abre el editor configurado por defecto en git
+```
