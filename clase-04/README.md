@@ -69,3 +69,15 @@ git push --set-upstream <urlDelRemoto> <rama>
 ```bash
 git push --unset-upstream <urlDelRemoto> <rama>
 ```
+
+# Para subir todas las ramas al remoto
+
+```bash
+git push --all 
+```
+
+# Para listar todas las ramas local y del remote
+
+```bash
+git branch -av
+```
